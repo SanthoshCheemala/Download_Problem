@@ -3,7 +3,7 @@
 This repository contains a full message-passing simulation of **Algorithm 2 (Blacklist_Download)** from the paper:
 
 > *Byzantine Resilient Distributed Computing on External Data*  
-> John Augustine, Anisur Rahaman Molla, Gopal Pandurangan, and Manish Kumar  
+> John Augustine Manish Kumar and et al
 > DISC 2024
 
 The simulation validates the paper's two central claims empirically: that the algorithm achieves **sub-linear query complexity** (Q < n) while remaining **correct for all Byzantine fractions β < 1**, even against the strongest adaptive adversary.
